@@ -1,4 +1,4 @@
-# cryptonote
+# README
 KIO Coin repository
 http://kios.me
 
